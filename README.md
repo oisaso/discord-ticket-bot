@@ -1,5 +1,7 @@
 # Support ticket bot — portfolio demo
 
+![tests](https://github.com/oisaso/discord-ticket-bot/actions/workflows/tests.yml/badge.svg)
+
 **What it proves:** a complete, role-gated ticket bot with persistence and
 transcripts. The platform-agnostic core is fully testable without Discord, so
 the demo runs on a clean machine with **zero packages installed** — and the
