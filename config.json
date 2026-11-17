@@ -1,0 +1,8 @@
+{
+  "brand": "oisaso",
+  "prefix": "!",
+  "staff_role": "Staff",
+  "max_open_per_user": 2,
+  "storage_path": "data/tickets.json",
+  "transcript_path": "data/transcripts.jsonl"
+}
